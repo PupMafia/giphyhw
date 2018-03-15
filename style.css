@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+#gif-form {
+    text-align: right;
+}
+
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
